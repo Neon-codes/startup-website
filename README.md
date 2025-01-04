@@ -1,2 +1,2 @@
 # website
-official website of neon-codes
+example startup website
